@@ -32,7 +32,7 @@
 </p>
 
 <p>&nbsp;
-  <img align="left" width="500"
+  <img align="left" width="400"
     src="https://github-readme-stats.vercel.app/api?username=brygtany&show_icons=true&locale=en&title_color=8A2BE2&text_color=C9D1D9&bg_color=0D1117&border_color=8A2BE2" 
     alt="brygtany" 
   />
