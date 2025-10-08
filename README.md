@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **brygtany@hotmail.com**
 
-- 📄 Know about my experiences: **I'm 19 years old and currently studying Systems Analysis and Development. I'm also an intern at Cielo, working in the IT Infrastructure area.**
+- 📄 Know about my experiences: **I'm 20 years old and currently studying Systems Analysis and Development. I'm also an intern at Cielo, working in the IT Infrastructure area.**
   
 - ⚡ Fun fact: **I really like axolotls and enjoy playing the keyboard 🎹.**
 
